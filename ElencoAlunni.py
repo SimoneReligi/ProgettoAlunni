@@ -1,3 +1,4 @@
+import random
 studenti_voti = {"Aldo" : [],
                  "Giovanni" : [23, 18, 28],
                  "Giacomo" : [30, 22, 22, 24]}
