@@ -1,0 +1,1 @@
+listaNomi = ["Aldo", "Giovanni", "Giacomo"]
